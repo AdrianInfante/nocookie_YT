@@ -1,0 +1,12 @@
+{
+    "manifest_version": 3,
+    "name": "YouTube URL Modifier",
+    "version": "1.0",
+    "description": "Modifies YouTube URLs to use yout-ube instead of youtube.",
+    "permissions": [
+      "tabs"
+    ],
+    "background": {
+      "service_worker": "background.js"
+    }
+  }
