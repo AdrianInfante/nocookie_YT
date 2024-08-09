@@ -5,7 +5,7 @@ chrome.tabs.onUpdated.addListener((tabId, changeInfo, tab) => {
         // Wait for a second before reloading the page
         setTimeout(() => {
           chrome.tabs.reload(tabId);
-        }, 1000); // 1000 milliseconds = 1 second
+        }, 1000); 
       });
     }
   });

@@ -1,8 +1,8 @@
 {
     "manifest_version": 3,
-    "name": "YouTube URL Modifier",
+    "name": "nocookie_YT",
     "version": "1.0",
-    "description": "Modifies YouTube URLs to use yout-ube instead of youtube.",
+    "description": "Modifies YouTube URLs to use yout-ube instead of youtube. By Adrian Infante Gonzalez",
     "permissions": [
       "tabs"
     ],
