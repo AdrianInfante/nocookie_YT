@@ -1,4 +1,4 @@
-# nocookie_YT
+# nocookie_YT Extension
 
 ## Overview
 
